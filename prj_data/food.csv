@@ -1,0 +1,10 @@
+food_id,name,description,supplier_id
+0,Donut,Fried dough,3
+1,Croissant,Buttery flaky pastry,1
+2,Puff,Flaky light pastry with potato stuffing,0
+3,Everything Bagel,Bagel with everything topping,2
+4,Sesame Bagel,Bagel with sesame topping,2
+5,Onion Bagel,Bagel with onion topping,2
+6,Garlic Bagel,Bagel with garlic topping,2
+7,Cinnamon Bagel,Bagel with Cinnamon topping,2
+8,Biscuits,Flour based product,4

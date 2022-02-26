@@ -1,0 +1,6 @@
+supplier_id,name,street_address,city,state,zip,phone
+0,Bakery 1,123 New Jersey Road,Newark,NJ,8234,6482340987
+1,Bakery 2,200 New Jersey Road,NewBrunswick,NJ,7234,5482340987
+2,Bakery 3,350 New Jersey Road,Piscataway,NJ,5234,4482340987
+3,Bakery 4,230 New Jersey Road,Piscataway,NJ,5234,2482340987
+4,Bakery 5,170 New Jersey Road,NewBrunswick,NJ,7234,3482340987
